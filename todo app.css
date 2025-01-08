@@ -1,0 +1,40 @@
+h1{
+    color: darkred;
+    font-size: 100px;
+}
+.btn{
+    color: white;
+    background-color: black;
+    border: 2px solid red;
+    border-radius: 8px;
+    font-size: 30px;
+
+}
+.btn:hover{
+    box-shadow: 5px 5px 10px red;
+    transition: 1s;
+    
+}
+input:hover{
+    border: 2px solid lightseagreen;
+    transition: 2s;
+    border-radius: 5px;
+}
+input{
+    background-color: lightgoldenrodyellow;
+    color:darkgreen;
+    font-size: 30px;
+}
+div{
+    
+    margin:50px 0px 0px 500px;
+    size: 50vh;
+}
+body{
+    background:url(background-image.webp);
+
+}
+ul{
+    color:maroon;
+    font-size: 30px;
+}
